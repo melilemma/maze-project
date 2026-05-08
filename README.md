@@ -18,4 +18,4 @@ python maze.py
 Click here to watch the full explanation and demo of the maze generator and solver:
 
 https://www.loom.com/share/fcc45defc6a649e0a838bc6bab338cd8
-https://www.loom.com/share/fcc45defc6a649e0a838bc6bab338cd8
+
